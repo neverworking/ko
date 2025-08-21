@@ -462,8 +462,8 @@ export default function StoryHub() {
 
       {/* Footer */}
       <footer className="border-t border-white/10 py-8 text-center text-sm text-zinc-500">
-        Built with <span className="text-white">React</span>, <span className="text-white">Tailwind</span>, and{" "}
-        <span className="text-white">Framer Motion</span> · No images, just stories.
+        Built By <span className="text-white">Rishikesh</span>, <span className="text-white"></span>, and{" "}
+        <span className="text-white">Team</span> · .
       </footer>
     </div>
   );
