@@ -16,7 +16,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const charactersSeed = [
   {
     id: "Selah",
-    name: "Alexander",
+    name: "Selah",
     tagline: "The unsung hero",
     gradient: "from-sky-900 via-slate-900 to-slate-950",
     accent: "ring-sky-400",
