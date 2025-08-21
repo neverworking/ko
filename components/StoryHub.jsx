@@ -17,20 +17,38 @@ const charactersSeed = [
   {
     id: "Selah",
     name: "Selah",
-    tagline: "The unsung hero",
+    tagline: "Selah The AURAT",
     gradient: "from-sky-900 via-slate-900 to-slate-950",
     accent: "ring-sky-400",
     chapters: [
       {
         id: "c1",
-        title: "Chapter 1 · Dawn",
-        preview: "A quiet city and a vow left unspoken...",
+        title: "Chapter 1 · Please mind the gap between the train and the platform",
+        preview: "Doors opening",
         body:
-          "The morning broke over rooftops like a soft confession. Alexander walked the length of the block where promises go to fade, and decided his wouldn't...",
+          "A swarm of female passengers gushed into the women’s compartment of the Dubai Metro. Crushed by the crowd, Selah spotted a small space near the divider between the general and women’s compartments, a shaky spot to stand but enough room to breathe. She quickly rushed towards it, but a blank-faced woman carrying two tote bags full of monthly supplies took the spot first. The flow of the crowd pushed Selah back into the middle.
+With slight annoyance on her face, she somehow managed to pull her Bluetooth earphones out of her blazer pocket and listened to songs she had downloaded three years ago. As the music played, she zoned out from the misery of her long journey back to her rented room after a job she hated.
+Looking out of the window, her thoughts were barely coherent because one of her insecurities was her height, and the tall woman in front of her was wearing a broad-brimmed sunhat, blocking much of her view.
+“Same bed but it feels just a little bigger now,” Bruno Mars sang softly in her ears. The melody was calm and soothing, but within seconds a radish was shoved up her nose because the woman with the sunhat had chosen to eat it for lunch.
+Selah felt a gagging, nauseous sensation. It was as if her life was slipping through her fingers. Just then, a sudden jerk of the train pushed everyone to the right, and Selah felt relieved as the radish wind shifted away. She noticed a lady nearby covering her nose with a hand fan. Selah smiled, trying not to laugh.
+Throughout the journey, she had felt the discomfort and frustration of not having luxurious resources. Selah had made a lot of bad decisions, one of the worst was now calling her. She answered, saying, “Hello? What is it?”
+Zain, her ex, replied from the other end, “I found the ATM card you lost a month ago. Oh, and before I forget, I withdrew 100,000 but don’t worry, I’ve left 500 rupees for you to spend.”
+Selah quickly checked her notifications and saw two transactions of 50,000 rupees each had gone through. Filled with rage and tears, she told him to return the money, but the call ended. When she tried calling back, there was no response.
+Selah had no one to turn to. First, she was living three hours away by flight from her hometown, Mumbai. Second, Zain was the guilty secret she hid from her family. She could only rely on her friend, but recently, she had refused to lend her friend money for a family crisis.
+Shame and guilt overtook her thoughts just as she heard the bell and the intercom announce, “Next station: Mall of the Emirates. Doors opening…”
+Selah, still reeling from the loss of her savings, tried to think of someone, anyone, who might help her. The crowded metro from that day still lingered in her mind, the press of strangers, the blur of faces, and somewhere among those memories was an old college friend, Prithvi.
+Prithvi once had a major crush on her, which she had rejected without remorse. She knew it, and so did he. But now, necessity outweighed pride. He was part of the police force in Mumbai, someone who could pull strings quietly, without her family knowing.
+She called him. Her words tumbled out quickly, just like an eel slipping through your hands above water, but his replies were flat and emotionless. He brushed her off without even a sandgrain’s size of care. Selah was hurt and broken; her last strand of hope made her feel regret about the past choices she had made. Selah thought to herself, I should have been a bit kinder when I rejected him. A year’s worth of savings was gone. A year’s worth of skipped treats, less shopping, and extra hours at work. It felt as if the metro’s clattering wheels from that day were still carrying her further away from what she had lost.
+She told herself to move on, but pain does not vanish on command.
+Weeks later, Selah was lying on her bed, looking at the ceiling, fighting against the mattress to let her free. With zero will, she grabbed her phone and turned off DND mode, trying to think of an excuse to skip office. As notifications from unwanted apps flooded in, she read a message from her neighbour: Your brother has been attacked by a mob. He’s gone.
+The world seemed to tilt. Her eyes grew heavy and her vision blurred. She had no money to make the journey home. The coins she had once guarded so fiercely had already gone. She grabbed her bag and knocked on her boss’s cabin door.
+With trembling hands and a heavy throat, she went to her boss, hoping for compassion. He lent her only enough to cover a return ticket, nothing more. It would get her there and back, but not spare her family from the crushing expense of a burial. She had no time to grieve, no time to think of her twenty-three-year-old little brother, whom she had helped with school homework, fought for snacks with, whose T-shirt she had stolen all while also asking him for IT support.
+When she finally landed back in Mumbai, the heat and bustle of the city hit her like a wave. The familiar streets felt both comforting and unbearably heavy, reminding her of all that had been lost. 
+Meera, her dearest friend, hearing the news that Selah was back, rushed to pick her up at the airport. With tears in her eyes, she hugged her because Peter’s loss was tough for them both. Selah knowing that grief had met poverty in an unwanted truce had nothing but worry on her face. She was from a middle-class household already stretched thin, struggling to lay her brother Peter to rest with dignity. On the way home, when Meera heard the news about Selah’s savings, without a second thought, she offered the money Selah needed from her bonus she had received for her hard work at work. Selah accepted, not only for the help but for the kindness it carried.",
       },
       {
         id: "c2",
-        title: "Chapter 2 · Faultlines",
+        title: "Chapter 2 · Tears that couldn’t hide behind the rain",
         preview: "Every favor has a seam that splits.",
         body:
           "There are maps for streets and none for people. He learned the turns by listening to the pauses between words...",
